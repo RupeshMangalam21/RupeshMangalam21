@@ -2,7 +2,7 @@
 - 👀 I’m interested in Disruptive Technologies.
 - 🌱 I’m currently learning Web Development (Full Stack).
 - 💞️ I’m looking to collaborate on Web Development Projects.
-- 📫 How to reach me- email: rupeshxedu@gmail.com
+- 📫 How to reach me- email: rupeshmangalam.work@gmail.com
 - 💞️ I'm exploring open source projects and trying to make helpful contributions!
 <!---
 rmxNinja/rmxNinja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
